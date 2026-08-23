@@ -1,0 +1,5 @@
+title: "SEPAone Blog"
+description: "SEPA Direct Debit — Artikel und Hintergründe"
+url: "https://blog.sepaone.com"
+theme: minima
+permalink: "/:year/:month/:day/:title/"
