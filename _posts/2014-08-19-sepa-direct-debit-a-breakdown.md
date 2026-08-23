@@ -2,7 +2,7 @@
 layout: post
 title: "SEPA Direct Debit: A breakdown"
 date: 2014-08-19T18:29:54+02:00
-permalink: /http://blog.sepaone.com/2014/08/19/sepa-direct-debit-a-breakdown
+permalink: /2014/08/19/sepa-direct-debit-a-breakdown/
 ---
 <h2>What is SEPA?</h2>
 <p>SEPA stands for Single Euro Payments Area, and is an initiative supported by the European Payments Council (EPC). The main purpose of this initiative is to <span style="color:#61acb1;"> <em>improve the efficiency of cross-border payments and turn the fragmented national markets for euro payments into a single domestic one</em> </span>. SEPA will enable customers to make cashless euro payments to anyone located anywhere in the area, using a single bank account and a single set of payment instruments. Economically speaking, this is very important in achieving economies of scale, by creating a common framework of payment instruments, standards and procedures.</p>

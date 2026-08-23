@@ -2,7 +2,7 @@
 layout: post
 title: "Direct Debit fastest growing E-Commerce Payment Method in DE, overtaking PayPal"
 date: 2015-05-15T16:08:53+02:00
-permalink: /http://blog.sepaone.com/2015/05/15/direct-debit-fastest-growing-e-commerce-payment-method-in-de-overtaking-paypal
+permalink: /2015/05/15/direct-debit-fastest-growing-e-commerce-payment-method-in-de-overtaking-paypal/
 ---
 <p>Concerning E-Commerce payment behaviour in Germany today we have a closer look at the 2014 <a href="http://www.ehi-shop.de/de/handelsthemen/e-commerce/studie-e-commerce-markt-deutschland-2014">EHI Retail Institute numbers</a>.</p>
 <p>German E-commerce buyers prefer payment upon invoice since many years. This is no news. 28% of E-Commece Revenue is payed after delivery by bank transfer. This might be secure and cash saving for buyers but expensive for merchants. Invoice is by far more expensive if you include direct and indirect costs as debtor management and default. IBI Research has calculated more than € 8 per transaction (Source: <a href="https://www.derhandel.de/news/technik/pages/pdfs/352_org.pdf">Total costs of payment methods 2014</a>).</p>

@@ -2,7 +2,7 @@
 layout: post
 title: "PSD2 RTS spares SDD – concentration in payment market and insecure payments are pushed"
 date: 2017-07-01T18:46:10+02:00
-permalink: /http://blog.sepaone.com/2017/07/01/psd2-rts-spares-sdd-concentration-in-payment-market-and-insecure-payments-are-pushed
+permalink: /2017/07/01/psd2-rts-spares-sdd-concentration-in-payment-market-and-insecure-payments-are-pushed/
 ---
 <p>EBA made clear in their final draft of the RTS that SDD is not part of their regulation:</p>
 <p>&#8220;In relation to payment instruments, and as stated in the CP, the EBA understands that Article 97(1)(b) applies to electronic payments initiated by the payer, or by the payer through the payee such as credit transfers or card payments, but does not apply to electronic payments initiated by the payee only. Given Article 97(1)(c), an exception is a transaction where the payer’s consent for a direct debit transaction is given in the form of an electronic mandate with the involvement of its PSP. The different types of payment instruments include e-money payment transactions. For instance, credit transfers include e-money transfers.&#8221;</p>

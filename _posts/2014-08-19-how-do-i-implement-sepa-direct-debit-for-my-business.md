@@ -2,7 +2,7 @@
 layout: post
 title: "How do I implement SEPA Direct Debit for my Business?"
 date: 2014-08-19T18:51:10+02:00
-permalink: /http://blog.sepaone.com/2014/08/19/how-do-i-implement-sepa-direct-debit-for-my-business
+permalink: /2014/08/19/how-do-i-implement-sepa-direct-debit-for-my-business/
 ---
 <p>There are 2 ways to set up SEPA Direct Debit for your business.</p>
 <p>a. Do it yourself<br />

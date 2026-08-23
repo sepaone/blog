@@ -2,7 +2,7 @@
 layout: post
 title: "What’s so great about SEPA Direct Debit?"
 date: 2014-08-19T18:33:47+02:00
-permalink: /http://blog.sepaone.com/2014/08/19/whats-so-great-about-sepa-direct-debit
+permalink: /2014/08/19/whats-so-great-about-sepa-direct-debit/
 ---
 <p>In the current payment system, businesses face a lot of difficulties in collecting payments from other SEPA countries. Due to the differences in payment models, these payments often require different formats and data elements. Taking these payments is usually expensive and time consuming.</p>
 <p>The SEPA Direct Debit scheme simplifies the collection of payments across multiple countries, by defragmenting the payment procedures. This will allow customers as well as businesses to make payments across the SEPA member states just as they make domestic payments.</p>

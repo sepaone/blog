@@ -2,7 +2,7 @@
 layout: post
 title: "SEPA Direct Debit Availability"
 date: 2014-08-19T19:12:53+02:00
-permalink: /http://blog.sepaone.com/2014/08/19/sepa-direct-debit-availability
+permalink: /2014/08/19/sepa-direct-debit-availability/
 ---
 <p>The <span style="color:#61acb1;">Deutsche Bundesbank</span> recently released data on the implementation of SEPA Direct Debit by all the Banks across the member states. We analyzed this data and here are our key findings:</p>
 <h4>SEPA Direct Debit availability for EU5 + Austria:</h4>
