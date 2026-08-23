@@ -61,7 +61,7 @@ permalink: /2014/08/19/sepa-direct-debit-availability/
 </tbody>
 </table>
 <hr />
-<p><em>(for all other countries, please refer to our <a href="https://sepaoneblog.wordpress.com/wp-content/uploads/2014/08/sepa-direct-debit-availability.pdf" target="_blank">complete list</a>)</em></p>
+<p><em>(for all other countries, please refer to our <a href="/assets/docs/sepa-direct-debit-availability.pdf" target="_blank">complete list</a>)</em></p>
 <p>The deadline for the SEPA Direct Debit implementation in all the Eurozone member states is <span style="color:#61acb1;">August 2014</span>, whereas for the non Eurozone states, it is <span style="color:#61acb1;">October 2016</span>. This would explain why the implementation of SEPA Direct Debit is much lower in UK Banks when compared to the others in the above table.</p>
 <p>At the time of writing this article, the following Eurozone states have less than <span style="color:#61acb1;">50% availability</span> of the Core scheme (by number of Bank branches) :</p>
 <blockquote>
